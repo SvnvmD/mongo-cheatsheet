@@ -13,6 +13,7 @@ db
 ```
 
 ## Create Or Switch Database
+The following command would create new DB if it does not exists. If it exists, switch to the DB.
 
 ```
 use acme
